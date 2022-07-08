@@ -1,6 +1,6 @@
 <template>
   <div>
-    <button @click="handler.add()"></button>
+    <button @click="handler.add()">+1</button>
   </div>
   <div style="color: red;">{{a}}</div>
 </template>
